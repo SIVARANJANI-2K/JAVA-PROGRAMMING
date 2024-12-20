@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="302fbeb3-d1dc-487c-af29-03628bc3930c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_assignent11/src/JDBC_3045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/src/main/java/StudentRegistrationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT12/StudentRegisterApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT10/Client_3045_TCP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT10/Client_3045_TCP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT10/Server_3045_TCP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA_ASSIGNMENT10/Server_3045_TCP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_assignent11/java_assignent11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_assignent11/java_assignent11.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p11uUilQVaxLCXsqnddPbcHPpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CalculatorApp [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Apache Tomcat.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sivakumar\Documents\JAVA_PROGRAMMING\JAVA_ASSIGNMENT11\CalculatorApp\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Apache Tomcat" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\Sivakumar\.SmartTomcat\CalculatorApp\CalculatorApp" />
+      <option name="contextPath" value="/CalculatorApp" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.33" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../../Program Files/Apache Software Foundation/Tomcat 10.1" />
+          <option name="version" value="10.1.33.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302fbeb3-d1dc-487c-af29-03628bc3930c" name="Changes" comment="" />
+      <created>1731918999157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731918999157</updated>
+    </task>
+    <servers />
+  </component>
+</project>
